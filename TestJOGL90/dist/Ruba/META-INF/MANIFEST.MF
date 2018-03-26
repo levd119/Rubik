@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_40-b26 (Oracle Corporation)
+Class-Path: lib/gluegen-rt-natives-macosx-universal.jar lib/gluegen-rt
+ -natives-windows-amd64.jar lib/gluegen-rt-natives-windows-i586.jar li
+ b/gluegen-rt.jar lib/jogl-all-natives-macosx-universal.jar lib/jogl-a
+ ll-natives-windows-amd64.jar lib/jogl-all-natives-windows-i586.jar li
+ b/jogl-all.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: testjogl.MainScreen
+
